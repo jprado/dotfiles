@@ -1,5 +1,8 @@
 #brew
 
+#brew install duti
+
+
 #vim
 #virtualbox
 #ansible
