@@ -16,7 +16,6 @@ mremoteng ^
 opera ^
 skype ^
 slack ^
-steam 
 sublimetext2 ^
 tortoisesvn ^
 vagrant ^
