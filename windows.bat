@@ -29,5 +29,6 @@ virtualbox ^
 vlc ^
 xenulinksleuth
 
+rem ansible ^
 rem editplus ^
 rem beyondcompare ^
