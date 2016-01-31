@@ -1,7 +1,34 @@
-rem 1. install chocolatey
-rem 2. run as administrator
+@echo off
 
-choco install 7zip beyondcompare filezilla git googlechrome jing libreoffice skype slack steam sublimetext2 tortoisesvn virtualbox -y
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
 
-rem mremote
-rem editplus
+choco install  -y ^
+7zip.install ^
+beyondcompare ^
+btsync ^
+dotnet4.5 ^
+filezilla ^
+git ^
+googlechrome ^
+jing ^
+libreoffice ^
+mremoteng ^
+opera ^
+skype ^
+slack ^
+steam 
+sublimetext2 ^
+tortoisesvn ^
+vagrant ^
+virtualbox ^
+vlc ^
+xenulinksleuth
+sublimetext2 ^
+tortoisesvn ^
+vagrant ^
+virtualbox ^
+vlc ^
+xenulinksleuth
+
+rem editplus ^
+rem beyondcompare ^
