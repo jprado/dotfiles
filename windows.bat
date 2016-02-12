@@ -22,12 +22,6 @@ vagrant ^
 virtualbox ^
 vlc ^
 xenulinksleuth
-sublimetext2 ^
-tortoisesvn ^
-vagrant ^
-virtualbox ^
-vlc ^
-xenulinksleuth
 
 rem ansible ^
 rem editplus ^
