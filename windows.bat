@@ -13,6 +13,7 @@ googlechrome ^
 jing ^
 libreoffice ^
 mremoteng ^
+nodejs.install
 opera ^
 skype ^
 slack ^
