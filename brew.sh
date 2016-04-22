@@ -29,6 +29,7 @@ brew cask install google-chrome
 brew cask install google-chrome-canary
 brew cask install iterm2
 brew cask install jing
+brew cask install java
 brew cask install libreoffice
 brew cask install opera
 brew cask install skype
