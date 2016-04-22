@@ -6,3 +6,4 @@
 #vagrant
 #chrome
 #jq
+#apt-get install default-jre
