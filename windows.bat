@@ -17,7 +17,7 @@ nodejs.install
 opera ^
 skype ^
 slack ^
-sublimetext2 ^
+sublimetext3 ^
 tortoisesvn ^
 vagrant ^
 virtualbox ^
