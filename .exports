@@ -1,3 +1,7 @@
+#if [ -f ~/.exports ]; then
+#    . ~/.exports
+#fi
+
 # Make vim the default editor
 export EDITOR="vim";
 
