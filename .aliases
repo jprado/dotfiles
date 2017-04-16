@@ -1,5 +1,0 @@
-alias l="ls -al"
-alias ..="cd .."
-
-alias svu="svn up --force"
-alias svt="svn st"
