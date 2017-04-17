@@ -17,6 +17,7 @@ brew install git
 brew install homebrew/dupes/grep
 brew install jq
 brew install subversion
+brew install git-svn
 brew install tmux
 brew install wget
 brew install vagrant
