@@ -4,6 +4,7 @@
 
 choco install  -y ^
 7zip.install ^
+cpu-z ^
 beyondcompare ^
 btsync ^
 dotnet4.5 ^
