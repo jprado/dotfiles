@@ -12,6 +12,8 @@ else # OS X `ls`
 	colorflag="-G"
 fi
 
+alias f='find . | grep -P --color $*'
+
 # List all files colorized in long format
 alias l="ls -lF ${colorflag}"
 
