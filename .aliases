@@ -2,8 +2,11 @@
 #    . ~/.bash_aliases
 #fi
 
-# Easier navigation: .., ..., ...., ....., ~ and -
+# Easier navigation:
 alias ..="cd .."
+
+# revert all conflicted files in subversion
+alias svrc="svn st | awk '/^C/ { print $2 }' | xargs svn revert"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
