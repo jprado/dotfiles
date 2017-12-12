@@ -5,7 +5,7 @@
 choco install  -y ^
 7zip.install ^
 cpu-z ^
-choco install visualstudiocode --params '/NoDesktopIcon 
+choco install visualstudiocode --params '/NoDesktopIcon ^
 beyondcompare ^
 btsync ^
 dotnet4.5 ^
