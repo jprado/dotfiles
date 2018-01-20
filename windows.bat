@@ -5,7 +5,7 @@
 choco install  -y ^
 7zip.install ^
 cpu-z ^
-visualstudiocode --params '/NoDesktopIcon' ^
+docker ^
 beyondcompare ^
 btsync ^
 dotnet4.5 ^
@@ -23,6 +23,7 @@ sublimetext3 ^
 tortoisesvn ^
 vagrant ^
 virtualbox ^
+visualstudiocode ^
 vlc ^
 xenulinksleuth
 
