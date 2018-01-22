@@ -7,9 +7,3 @@ sudo apt-get install nodejs
 sudo apt-get install libfontconfig
 sudo apt-get install php7.0-cli
 sudo npm install gulp -g
-
-npm install penthouse
-npm install gulp-minify-css
-npm install gulp-concat
-npm install gulp-autoprefixer
-npm install gulp-cssbeautify
