@@ -4,6 +4,7 @@
 
 choco install  -y ^
 7zip.install ^
+colortool ^
 cpu-z ^
 docker ^
 beyondcompare ^
