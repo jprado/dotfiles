@@ -3,31 +3,27 @@
 @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
 
 choco install  -y ^
+androidstudio ^
 7zip.install ^
 colortool ^
 cpu-z ^
 docker ^
 beyondcompare ^
-btsync ^
-dotnet4.5 ^
-filezilla ^
 git ^
 googlechrome ^
-jing ^
+jdk8 ^
 libreoffice ^
+netbeans-php ^
+nvm ^
 mremoteng ^
-nodejs.install
 opera ^
+python2 ^
+resilio-sync-home ^
 skype ^
 slack ^
 sublimetext3 ^
 tortoisesvn ^
 vagrant ^
 virtualbox ^
-visualstudiocode ^
-vlc ^
+vscode ^
 xenulinksleuth
-
-rem ansible ^
-rem editplus ^
-rem beyondcompare ^
