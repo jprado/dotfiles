@@ -15,6 +15,7 @@ jdk8 ^
 libreoffice ^
 netbeans-php ^
 nvm ^
+mousewithoutborders ^
 mremoteng ^
 opera ^
 python2 ^
@@ -22,6 +23,7 @@ resilio-sync-home ^
 skype ^
 slack ^
 sublimetext3 ^
+synergy ^
 tortoisesvn ^
 vagrant ^
 virtualbox ^
