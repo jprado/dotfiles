@@ -11,6 +11,7 @@ docker ^
 beyondcompare ^
 git ^
 googlechrome ^
+hwinfo.install ^
 jdk8 ^
 libreoffice ^
 netbeans-php ^
