@@ -21,6 +21,7 @@ mremoteng ^
 opera ^
 python2 ^
 resilio-sync-home ^
+shutup10 ^
 skype ^
 slack ^
 sublimetext3 ^
