@@ -8,6 +8,7 @@ androidstudio ^
 colortool ^
 cpu-z ^
 docker ^
+discord ^
 beyondcompare ^
 git ^
 googlechrome ^
