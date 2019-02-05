@@ -6,6 +6,7 @@ choco install  -y ^
 androidstudio ^
 7zip.install ^
 colortool ^
+coretemp ^
 cpu-z ^
 docker ^
 discord ^
