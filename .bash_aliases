@@ -74,9 +74,3 @@ alias reload="exec $SHELL -l"
 
 # Microsoft Unix 2017
 alias open="explorer.exe"
-
-# best tldr
-function cheat() {
-    curl cht.sh/$1
-}
-
