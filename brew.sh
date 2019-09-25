@@ -10,6 +10,7 @@ brew update && brew upgrade && brew upgrade brew-cask && brew cleanup && brew ca
 brew install nvm
 brew install git
 brew install vim
+brew install subversion
 brew install zsh
 
 brew cask install google-chrome
