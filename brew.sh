@@ -14,7 +14,6 @@ brew install zsh
 
 brew cask install google-chrome
 brew cask install itsycal
-brew cask install libreoffice
 brew cask install resilio-sync
 brew cask install sublime-text
 brew cask install spectacle
