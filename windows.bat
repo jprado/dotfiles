@@ -10,7 +10,9 @@ coretemp ^
 cpu-z ^
 docker ^
 discord ^
+exa ^
 beyondcompare ^
+fzf ^
 git ^
 googlechrome ^
 hwinfo.install ^
