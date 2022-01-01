@@ -12,6 +12,7 @@ brew install git
 brew install vim
 brew install subversion
 brew install zsh
+brew install exa
 
 brew cask install google-chrome
 brew cask install itsycal
