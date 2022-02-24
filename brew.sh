@@ -14,6 +14,7 @@ brew install subversion
 brew install zsh
 brew install exa
 brew install fzf
+brew install beyond-compare
 
 brew cask install google-chrome
 brew cask install itsycal
