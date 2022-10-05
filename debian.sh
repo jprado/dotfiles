@@ -1,5 +1,6 @@
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoclean && sudo apt-get autoremove
-sudo apt-get install vim curl zsh git subversion php8.0 exa fzf
+sudo apt install rsync subversion whois curl composer sslscan fzf exa fd-find unzip speedtest-cli
+
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | zsh
 
